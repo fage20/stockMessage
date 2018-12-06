@@ -1,0 +1,12 @@
+.navbar-nav{
+  display:flex;
+  flex-direction: row;
+
+}
+.dropdown{
+  margin: 0 5px;
+}
+.navbar{
+  padding: 0;
+  height: 30px;
+}
